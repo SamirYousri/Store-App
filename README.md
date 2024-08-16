@@ -1,16 +1,37 @@
-# store
+# Store App
 
-A new Flutter project.
+## Overview
+A mini marketing program that allows users to manage products. Users can add, edit, and delete products from the store.
 
-## Getting Started
+## Features
+- Add, edit, and delete products
+- Fetch products from a remote API
+- Clean and responsive UI design
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **Flutter**: For building the cross-platform app.
+- **HTTP**: For API communication.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+1. Clone the repository: 
+    ```
+    git clone https://github.com/SamirYousri/Store-App.git
+    ```
+2. Navigate to the project directory:
+    ```
+    cd Store-App
+    ```
+3. Install dependencies:
+    ```
+    flutter pub get
+    ```
+4. Run the app:
+    ```
+    flutter run
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+(Add screenshots of your app here)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
